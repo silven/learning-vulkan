@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb-mi",
+            "request": "launch",
+            "name": "LLDB Launch",
+            "target": "${workspaceRoot}/vk",
+            "cwd": "${workspaceRoot}"
+        }
+    ]
+}
